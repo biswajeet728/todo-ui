@@ -13,7 +13,7 @@ Full Stack React Native application using the popular tech Stack MERN Stack with
 
 - Typescript based REST Api
 - Secure Authentication using JWT
-- Global State Management Context API
+- Global State Management using Context API
 - Mordern Ui with Latest Expo React Native
 
 
