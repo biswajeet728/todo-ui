@@ -22,5 +22,5 @@ Full Stack React Native application using the popular tech Stack MERN Stack with
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/ScOuT408/todo-ui/assets/90475327/81476d32-3be5-4814-908d-ffbcece6f9c3
 
